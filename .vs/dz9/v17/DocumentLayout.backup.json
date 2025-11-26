@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C# Itstep\\dz9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\dateandmathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\dateandmathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\arraynumberutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\arraynumberutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateAndMathUtils.cs",
+              "DocumentMoniker": "D:\\Programming\\C# Itstep\\dz9\\dz9\\DateAndMathUtils.cs",
+              "RelativeDocumentMoniker": "dz9\\DateAndMathUtils.cs",
+              "ToolTip": "D:\\Programming\\C# Itstep\\dz9\\dz9\\DateAndMathUtils.cs",
+              "RelativeToolTip": "dz9\\DateAndMathUtils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:45:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayNumberUtils.cs",
+              "DocumentMoniker": "D:\\Programming\\C# Itstep\\dz9\\dz9\\ArrayNumberUtils.cs",
+              "RelativeDocumentMoniker": "dz9\\ArrayNumberUtils.cs",
+              "ToolTip": "D:\\Programming\\C# Itstep\\dz9\\dz9\\ArrayNumberUtils.cs",
+              "RelativeToolTip": "dz9\\ArrayNumberUtils.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:02:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C# Itstep\\dz9\\dz9\\Program.cs",
+              "RelativeDocumentMoniker": "dz9\\Program.cs",
+              "ToolTip": "D:\\Programming\\C# Itstep\\dz9\\dz9\\Program.cs",
+              "RelativeToolTip": "dz9\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:59:36.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

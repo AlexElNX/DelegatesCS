@@ -1,0 +1,14 @@
+D:\Programming\C# Itstep\dz9\dz9\bin\Debug\net8.0\dz9.exe
+D:\Programming\C# Itstep\dz9\dz9\bin\Debug\net8.0\dz9.deps.json
+D:\Programming\C# Itstep\dz9\dz9\bin\Debug\net8.0\dz9.runtimeconfig.json
+D:\Programming\C# Itstep\dz9\dz9\bin\Debug\net8.0\dz9.dll
+D:\Programming\C# Itstep\dz9\dz9\bin\Debug\net8.0\dz9.pdb
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.AssemblyInfoInputs.cache
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.AssemblyInfo.cs
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.csproj.CoreCompileInputs.cache
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.dll
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\refint\dz9.dll
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.pdb
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\dz9.genruntimeconfig.cache
+D:\Programming\C# Itstep\dz9\dz9\obj\Debug\net8.0\ref\dz9.dll
