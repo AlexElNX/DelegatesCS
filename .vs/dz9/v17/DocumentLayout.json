@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Programming\\C# Itstep\\dz9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\arraynumberutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\arraynumberutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\dateandmathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\dateandmathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\arraynumberutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\arraynumberutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|d:\\programming\\c# itstep\\dz9\\dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E09231-AC58-4DAA-8A20-420EE8947310}|dz9\\dz9.csproj|solutionrelative:dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ArrayNumberUtils.cs",
               "DocumentMoniker": "D:\\Programming\\C# Itstep\\dz9\\dz9\\ArrayNumberUtils.cs",
               "RelativeDocumentMoniker": "dz9\\ArrayNumberUtils.cs",
               "ToolTip": "D:\\Programming\\C# Itstep\\dz9\\dz9\\ArrayNumberUtils.cs",
               "RelativeToolTip": "dz9\\ArrayNumberUtils.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T04:02:09.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\C# Itstep\\dz9\\dz9\\Program.cs",
               "RelativeDocumentMoniker": "dz9\\Program.cs",
               "ToolTip": "D:\\Programming\\C# Itstep\\dz9\\dz9\\Program.cs",
               "RelativeToolTip": "dz9\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T03:59:36.656Z",
               "EditorCaption": ""

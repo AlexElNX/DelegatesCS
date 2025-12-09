@@ -38,8 +38,11 @@
                     bool isSimple = true;
                     for (int j = 2; j <= Math.Sqrt(i); ++j)
                     {
-                        if(i  % j == 0) isSimple = false;
-                        break;
+                        if (i % j == 0)
+                        {
+                            isSimple = false;
+                            break;
+                        }
                     }
 
                     if (isSimple)
